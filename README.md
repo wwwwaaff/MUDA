@@ -1,2 +1,4 @@
 # MUDA
-codes for AAAI2022 paper "Representing Model Uncertainty through Data Augmentation in Deep Learning"
+codes for SDM22 paper "Capturing Model Uncertainty with Data Augmentation in Deep Learning"
+
+This repository will be updated soon. 
